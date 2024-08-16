@@ -1,5 +1,6 @@
 # personal-projects
 
+============================================================================
 Project #1:
 2-in-1 2D Web Games
 
@@ -11,3 +12,7 @@ WORDLE Functionalities:
 CRACK THE CODE Functionalities:
 - generates code
 - validates answer
+
+Made with React, Typescript, Material UI
+
+============================================================================
