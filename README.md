@@ -20,3 +20,11 @@ CRACK THE CODE Functionalities:
 Made with React, Typescript, Material UI
 
 ============================================================================
+
+Project #2
+
+Crack The Code in Python
+
+PyGame version of Crack The Code
+
+============================================================================
