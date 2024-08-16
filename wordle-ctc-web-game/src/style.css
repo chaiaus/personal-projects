@@ -1,0 +1,51 @@
+.default-box-style {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+/* Game Styles */
+.game-pane {
+    width: 450px;
+    height: 700px;
+    background-color: #3D3D3D;
+    border-radius: 25px; 
+    padding: 20px;
+}
+.box-score {
+    width: 150px;
+    height: 175px;
+    background-color: #525252;
+    border-radius: 25px; 
+    margin-bottom: 10px;
+}
+.sub-box-score {
+    width: 125px;
+    height: 125px;
+    background-color: #EBEBEB;
+    border-radius: 20px; 
+}
+.ttt-box {
+    width: 375px;
+    height: 375px;
+    background-color: gray;
+    border-radius: 25px;
+}
+
+button {
+    font-family: "Arial Rounded MT Bold";
+    color: white;
+    box-shadow: rgb(191, 191, 191) 0 5px 0;
+    border-bottom: 1px solid white;
+}
+
+img {
+    width: 50px;
+    height: 50px;
+}
+
+input {
+    font-family: "Arial Rounded MT Bold";
+    color: white;
+}
